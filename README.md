@@ -1,6 +1,6 @@
 # vehicle_diagnostics
 
-A new Flutter project.
+Implementing Data Science techniques to understand and discover car performance patterns and issues. 
 
 ## Getting Started
 
